@@ -8,7 +8,7 @@ description: Stuff
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/samseed.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -55,7 +55,7 @@ authors:
         name: Fahad Desmukh
         bio: Someone
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/samseed.jpg
         twitter: desmukh
 
 # do you want a larger site? change the option below
